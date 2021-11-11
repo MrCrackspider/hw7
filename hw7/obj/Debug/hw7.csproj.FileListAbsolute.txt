@@ -1,0 +1,7 @@
+C:\Users\kotle\source\repos\hw7\hw7\bin\Debug\hw7.exe.config
+C:\Users\kotle\source\repos\hw7\hw7\bin\Debug\hw7.exe
+C:\Users\kotle\source\repos\hw7\hw7\bin\Debug\hw7.pdb
+C:\Users\kotle\source\repos\hw7\hw7\obj\Debug\hw7.csprojAssemblyReference.cache
+C:\Users\kotle\source\repos\hw7\hw7\obj\Debug\hw7.csproj.CoreCompileInputs.cache
+C:\Users\kotle\source\repos\hw7\hw7\obj\Debug\hw7.exe
+C:\Users\kotle\source\repos\hw7\hw7\obj\Debug\hw7.pdb
